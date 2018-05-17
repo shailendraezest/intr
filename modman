@@ -1,0 +1,19 @@
+## MagentoPHP56 - Fix for error: Deprecated functionality: iconv_set_encoding(): Use of iconv.internal_encoding is deprecated
+
+# Up-to-date with Magento 1.9.1.1.  File is no longer included in Magento since 1.9.2.2
+app/code/local/Zend/Service/Technorati.php       app/code/local/Zend/Service/Technorati.php
+
+# Up-to-date with Magento 1.9.1.1. 
+app/code/local/Zend/Service/Audioscrobbler.php   app/code/local/Zend/Service/Audioscrobbler.php
+
+# Up-to-date with Magento 1.9.1.1.
+app/code/local/Zend/Locale/Format.php            app/code/local/Zend/Locale/Format.php
+
+# Up-to-date with Magento 1.9.1.1.
+app/code/local/Zend/Validate/Hostname.php        app/code/local/Zend/Validate/Hostname.php
+
+# Up-to-date with Magento 1.9.1.1.
+app/code/local/Zend/Validate/StringLength.php    app/code/local/Zend/Validate/StringLength.php
+
+# Up-to-date with Magento 1.9.1.1.
+app/code/local/Zend/XmlRpc/Client.php            app/code/local/Zend/XmlRpc/Client.php
